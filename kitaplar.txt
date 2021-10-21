@@ -1,0 +1,33 @@
+1
+Falaka
+Omer Seyfettin
+2
+Suc ve Ceza
+Tolstoy
+3
+Kurk Mantolu Madonna
+Sabahattin Ali
+4
+Sineklerin Tanrisi
+William Golding
+5
+Seker Portakali
+Jose Mauro De Vasconcelos
+6
+Hayvan Ciftligi
+George Orwell
+7
+Su Cilgin Turkler
+Turgut Ozakman
+8
+Harry Potter ve Felsefe Tasi - 1. Kitap
+J. K. Rowling
+9
+Yilani Oldurseler
+Yasar Kemal
+10
+Atesten Gomlek
+Halide Edib Adıvar
+11
+Ask-i Memnu
+Halid Ziya Usakligil
