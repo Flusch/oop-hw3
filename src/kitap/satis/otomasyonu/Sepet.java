@@ -1,8 +1,3 @@
-//
-//Yavuz Selim GÜLER
-//1306160016
-//
-
 package kitap.satis.otomasyonu;
 import java.io.*;
 import java.util.Scanner;
